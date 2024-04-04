@@ -190,14 +190,14 @@
 }
 .app__top {
   position: relative;
-  height: 28rem;
+  height: 50rem;
   background: #fff;
   padding: 6rem 1.5rem 2rem;
   text-align: center;
 }
 .app__bot {
   position: relative;
-  height: 25rem;
+  height: 50rem;
   background: #fff;
 }
 .app__menu-btn {
