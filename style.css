@@ -271,8 +271,8 @@
 }
 .app__logout {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  bottom: 15px;
+  right: 15px;
   width: 2rem;
   height: 2rem;
   margin-right: -1.5rem;
@@ -303,8 +303,6 @@
   height: 2rem;
   top: 50%;
   left: 50%;
-  margin-left: -1.5rem;
-  margin-top: -1.5rem;
   transition: opacity 0.1s;
 }
 .app__logout-icon path {
