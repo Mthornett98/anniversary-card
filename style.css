@@ -191,6 +191,9 @@
 .app__top {
   position: relative;
   height: 60rem;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
   background: #fff;
   padding: 6rem 1.5rem 2rem;
   text-align: center;
