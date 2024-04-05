@@ -270,7 +270,7 @@
 }
 .app__logout {
   position: absolute;
-  top: 12px;
+  top: 5px;
   right: 25px;
   width: 2rem;
   height: 2rem;
@@ -279,7 +279,7 @@
   background: #D0C0F0;
   box-shadow: 0 12px 12px #ff660035;
   z-index: 777;
-  color: #fff;
+  color: #fce4ec;
   font-size: 2rem;
   border-radius: 50%;
   cursor: pointer;
