@@ -194,8 +194,9 @@
   width: 95%;
   max-width: 800px;
   margin: 0 auto;
-  background: #fff;
+  background: #fce4ec;
   padding: 5px;
+  border-radius: 5px;
   text-align: justify;
   font-size: 1.1rem;
 }
