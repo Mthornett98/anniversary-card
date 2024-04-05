@@ -7,7 +7,6 @@
   body {
     font-size: 62.5%;
     height: 100%;
-    width: 80%;
     overflow: hidden;
   }
   .svg-icon {
@@ -264,7 +263,7 @@
   width: 80%;
   max-width: 800px;
   margin: 0 auto;
-  line-height: 1.5em;
+  line-height: 1em;
 }
 .app__logout-icon path {
   stroke-width: 2px !important;
