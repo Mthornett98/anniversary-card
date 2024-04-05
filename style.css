@@ -271,7 +271,7 @@
 }
 .app__logout {
   position: absolute;
-  top: 5px;
+  bottom: 5px;
   right: 25px;
   width: 2rem;
   height: 2rem;
