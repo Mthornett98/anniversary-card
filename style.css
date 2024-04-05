@@ -203,7 +203,7 @@
 .app__bot {
   position: relative;
   height: 60rem;
-  background: #fff;
+  background: black;
 }
 .app__menu-btn {
   position: absolute;
